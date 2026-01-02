@@ -1,0 +1,8 @@
+name: MiniBossSpawn
+version: '1.0'
+main: org.OZI.miniBossSpawn.MiniBossSpawn
+api-version: '1.21'
+commands:
+  spawnboss:
+    description: Spawnuje miniBossa wegług configu
+    usage: /spawnboss <nazwa>
